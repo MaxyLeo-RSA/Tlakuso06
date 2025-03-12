@@ -1,0 +1,53 @@
+.main_heading{
+    color: rgba(235, 125, 0, 0.844); text-align-last: center;
+}
+.logo{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.services {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+  }
+.side_pics{ width: 450px;
+    height: 600px;
+    object-fit:cover;
+}  
+.side_pics2{ width: 500px;
+    height: 600px;
+    object-fit:cover;
+}  
+.services2 {
+    width: auto;
+    height: auto;
+    object-fit: cover;display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.side_pics3{ width: 700px;
+    height: 600px;
+    object-fit:cover;
+}
+
+.headings_allignment{text-align: center; color: rgba(235, 125, 0, 0.844) ;
+}
+.small_print{font-style: italic;font-weight: 100;font-size: small;text-align: center;
+}
+.small_print2{font-style: italic;font-weight: 100;font-size: small;
+}
+
+html{background-color: rgb(0, 0, 0); font-style:inherit ; color: #5487e1ae;font-weight: 600;font-size: larger;
+}
+.links{font-weight: 300;text-align: center;align-items: center;background-color: rgb(255, 170, 0);
+}
+.body2{font-weight: 300;text-align: center;align-items: center;align-content: center;display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.pop{color: red; text-align: center;font-size: large;
+
+}
